@@ -1,0 +1,76 @@
+{
+	"contentType": "application/json",
+	"accessToken": "c1be198bb8037e8cb68924d24ac7c9a9",
+	"requestBody": {
+		"motherSetCode": "225717986142710005",
+		"motherSetSeriesCode": "225717985417010003",
+		"size": 1,
+		"materialList": {
+			"psdImage": {
+				"width": 420,
+				"height": 336,
+				"dataContent": "",
+				"channels": 4,
+				"colorMode": "RGBA",
+				"format": "png",
+				"color": "",
+				"colorDrift": [],
+				"materialUrl": ""
+			},
+			"layers": {
+				"elements": {
+					"text-1": {
+						"name": "",
+						"smartName": "",
+						"layerType": "",
+						"dataContent": "",
+						"visible": 1,
+						"materialUrl": "",
+						"layoutHori": "",
+						"layoutVert": "",
+						"text": "111111111111111111111",
+						"overOperation": "",
+						"resizeOperation": "",
+						"transparentCut": 0
+					},
+					"text-2": {
+						"name": "",
+						"smartName": "",
+						"layerType": "",
+						"dataContent": "",
+						"visible": 1,
+						"materialUrl": "",
+						"layoutHori": "",
+						"layoutVert": "",
+						"text": "222222222222222",
+						"overOperation": "",
+						"resizeOperation": "",
+						"transparentCut": 0
+					},
+					"goods-1": {
+						"name": "",
+						"smartName": "",
+						"layerType": "",
+						"dataContent": "",
+						"visible": 1,
+						"materialUrl": "",
+						"layoutHori": "",
+						"layoutVert": "",
+						"text": "http://imgservice.suning.cn/uimg1/b2c/image/7MmJZz5zf3F6p1ak-by6_w.jpg_800w_800h_4e",
+						"overOperation": "",
+						"resizeOperation": "",
+						"transparentCut": 0
+					}
+				},
+				"layout": {}
+			},
+			"override": {
+				"exact_textlines": 0,
+				"exact_hw_ratio": 0
+			}
+		},
+		"index": 1,
+		"shuffle": 1,
+		"version": "225717989802610008"
+	}
+}
